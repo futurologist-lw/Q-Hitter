@@ -102,4 +102,4 @@ dependencies:
       - xopen==2.0.1
       - zipp==3.19.1
       - zlib-ng==0.4.3
-prefix: /home/zz7962/anaconda3/envs/qhitter
+# prefix: /home/zz7962/anaconda3/envs/qhitter
